@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrsaMaior/Zad_8.git"
+  },
+  "author": "Ursa Maior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrsaMaior/Zad_8/issues"
+  },
+  "homepage": "https://github.com/UrsaMaior/Zad_8#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
